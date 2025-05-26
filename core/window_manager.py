@@ -1,0 +1,1 @@
+# Logic tìm và tương tác với cửa sổ game

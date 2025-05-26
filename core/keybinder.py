@@ -1,0 +1,1 @@
+# Logic xử lý gán và lắng nghe phím tắt toàn cục

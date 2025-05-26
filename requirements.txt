@@ -1,0 +1,4 @@
+PyQt6
+pyautogui # Cho điều khiển chuột phím
+opencv-python # Cho nhận dạng hình ảnh
+mss # Cho chụp màn hình nhanh
